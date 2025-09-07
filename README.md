@@ -1,3 +1,4 @@
+
 # Brain-Fiber-Simulation-with-fastPLI
 This seminar project was part of Medical Imaging specialization of the master's program Computer Simulation in Science
 In this seminar project different fiber architecture were simulated using a class fastPLI. 
@@ -9,6 +10,15 @@ Sandbox - Designing Nerve Fiber Models
 Solver - Generating Collision Free Model
 Simulation - Simulation of 3D-Polarized Light
 Imaging
+
+# Necessary Software
+Try installing the following software before our first meeting
+
+Fiji: https://imagej.net/Fiji/Downloads
+3D Viewer plugin: https://imagej.net/3D_Viewer
+Python3 (>=3.6): https://www.python.org/
+fastpli: https://github.com/3d-pli/fastpli
+If you have trouble installing it, a docker service is available where you can use jupyter lab to work with the library https://github.com/3d-pli/fastpli/tree/Docker
 
 # Task 
 - Define a single
